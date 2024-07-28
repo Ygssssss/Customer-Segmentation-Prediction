@@ -66,7 +66,7 @@ def main():
 
 def run_ml_app():
     design = """<div style="padding:15px;">
-                    <h1 style="#fff;>Loan Eligibility Prediction</h1>
+                    <h1 style="#fff;>Customer Segmentation Prediction</h1>
                 </div>
             """
     st.markdown(design, unsafe_allow_html=True)
