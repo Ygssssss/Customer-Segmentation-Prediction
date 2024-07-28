@@ -11,7 +11,7 @@ html_temp = """ <div style="background-color:#000;padding:10px;border-radius:10p
                 """
 
 desc_temp = """ ### Customer Segmentation Prediction App
-                This app is used by credit team for deciding Customer Segmentation Application
+                This app is used for team to help decide Customer Segmentation Application
                 
                 ### Data Source
                 Kaggle: Link <https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation/data>
